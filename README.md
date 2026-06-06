@@ -7,3 +7,4 @@ Folder structure is:
 -Night
 
 The complete dataset can be found in this link: https://drive.google.com/drive/folders/1WW3wug7nSRJcocJqh00uGMUHF7PNU9VG?usp=drive_link
+The bbox annotations can be found here: https://drive.google.com/drive/folders/15rzVcVm6eVQvnjWLWS-B7Vhk7grPEMS9?usp=sharing
