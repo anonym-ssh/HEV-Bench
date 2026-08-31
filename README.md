@@ -11,6 +11,6 @@ The complete dataset can be found in this link: https://drive.google.com/drive/f
 The bbox annotations can be found here: https://drive.google.com/drive/folders/1jBsPMlZmuMq5JQFMG4tBCV7RSISNd_1j?usp=sharing
 Only persons(with object label-1) and vehicles(with object label-15) are annotated.
 
-The bbox ith track IDs .txt files can be found here: https://drive.google.com/drive/folders/1mFgn_RgrOH2w_uA6mumjSploaKc4N9aa?usp=sharing
+The bbox with track IDs .txt files can be found here: https://drive.google.com/drive/folders/1mFgn_RgrOH2w_uA6mumjSploaKc4N9aa?usp=sharing
 
 The split details are given in splits folder
